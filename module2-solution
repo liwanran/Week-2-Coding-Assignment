@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="week2styles.css">
+<meta charset="utf-8">
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<title>Week 2 Coding Assignment</title>
+</head>
+<body>
+<h1>Our menu</h1>
+<div class='row'>
+	<div class="col-lg-4 col-md-6 sx-12">
+		<div class="section">
+			<span id="nr1">Chicken</span>
+			<p>Goldman Sachs could withhold millions of dollars in pay from former chief Lloyd Blankfein because of the scandal around a corrupt Malaysian investment fund.</p>
+		</div>
+	</div>
+	<div class="col-lg-4 col-md-6 sx-12">
+		<div class="section">
+			<span id="nr2">Beef</span>
+			<p>Goldman Sachs could withhold millions of dollars in pay from former chief Lloyd Blankfein because of the scandal around a corrupt Malaysian investment fund.</p>
+		</div>
+	</div>
+	<div class="col-lg-4 col-md-12 sx-12">
+		<div class="section">
+			<span id="nr3">Sushi</span>
+			<p>Goldman Sachs could withhold millions of dollars in pay from former chief Lloyd Blankfein because of the scandal around a corrupt Malaysian investment fund.</p>
+		</div>
+	</div>
+</div>
+</body>
+</html>
